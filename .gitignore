@@ -1,0 +1,66 @@
+# 依赖目录
+node_modules/
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+target/
+
+# 日志和数据库
+*.log
+*.sql
+*.sqlite
+*.db
+
+# 本地环境配置
+.env
+.env.local
+.env.*.local
+*.local
+
+# IDE 和编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# 编译输出
+*.class
+*.jar
+*.war
+*.ear
+out/
+bin/
+obj/
+
+# 临时文件
+*.tmp
+*.temp
+*.cache
+*.bak
+
+# 测试和覆盖率
+coverage/
+.nyc_output/
+.pytest_cache/
+.tox/
+*.cover
+
+# 构建工具生成
+.gradle/
+build/
+*.iml
+
+# 其他
+*.pid
+*.seed
+*.pid.lock
