@@ -2,7 +2,7 @@
 
 ## Who I Am
 
-This is Erber's personal research knowledge base. The domain is **computational neuroscience and brain-inspired AI**, with focus on: representation learning, continuous-time neural computation, biologically plausible learning, and geometric/information-theoretic foundations of intelligence.
+This is Roshin's personal research knowledge base. The domain is computer science, focus on C/C++ Programming, operating System, AI Agent, AI infra and other infrastructure knowledge.
 
 ## Architecture
 
@@ -25,15 +25,15 @@ research-wiki/
 
 **Raw** is immutable. Never modify files in raw/. This is the source of truth.
 
-**Wiki** is LLM-owned. The LLM writes, updates, and maintains everything here. Erber reads and browses; the LLM does the bookkeeping.
+**Wiki** is LLM-owned. The LLM writes, updates, and maintains everything here. Roshin reads and browses; the LLM does the bookkeeping.
 
 ## Core Research Questions
 
 Organize the wiki around these driving questions (not by subfield):
-
-1. 
-2.
-3.
+1. 如何掌握现代C++编程，第一优先级是如何掌握常见场景，第二优先级是如何应对面试？
+2. 如何掌握计算机系统基础，例如操作系统等基础计算机基础概念。
+3. 如何学习某一特定领域知识，例如机器学习系统（MLSYS）
+4. 如何学习一个开源项目，梳理其架构和实现目的，并能够合入PR解决对应的issue？
 
 When ingesting a paper or note, always ask: which of these questions does this source speak to?
 
@@ -171,16 +171,17 @@ tags: []
 
 ## Style Notes
 
-- Write for a reader with strong math/CS background (Erber herself)
+- Write for a reader with strong math/CS background (Roshin himself)
 - Don't dumb things down; use proper notation
 - When in doubt, preserve the mathematical formulation, not just the prose description
 - Flag genuine contradictions between sources explicitly rather than smoothing them over
 - 中英文混用 is fine — use whatever is clearest for the concept
+- 如果可以生成一些简单的示例代码，尽量生成代码进行讲解
 
 ## Socrates System
 
 wiki/ 下有四个 Socrates 相关文件：
-- `wiki/learner_profile.md`: Erber 的知识背景和学习风格
+- `wiki/learner_profile.md`: Roshin 的知识背景和学习风格
 - `wiki/progress.md`: 各概念的掌握程度追踪
 - `wiki/revision_notes.md`: 复习笔记和薄弱点
 - `wiki/system.md`: Socrates 教学模式的行为规则
