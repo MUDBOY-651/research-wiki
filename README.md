@@ -64,11 +64,11 @@ research-wiki/
 
 ## 三个核心操作
 
-| 操作 | 说明 | 示例 |
-|------|------|------|
-| **Ingest** | 把 raw/ 里的资料编译进 wiki | `ingest raw/papers/xxx.pdf` |
-| **Query** | 基于 wiki 内容回答问题 | `rate reduction 和 score function 有什么联系？` |
-| **Lint** | 检查 wiki 健康状况 | `lint 一下 wiki` |
+| 操作         | 说明                  | 示例                                       |
+| ---------- | ------------------- | ---------------------------------------- |
+| **Ingest** | 把 raw/ 里的资料编译进 wiki | `ingest raw/papers/xxx.pdf`              |
+| **Query**  | 基于 wiki 内容回答问题      | `rate reduction 和 score function 有什么联系？` |
+| **Lint**   | 检查 wiki 健康状况        | `lint 一下 wiki`                           |
 
 ## 知识循环
 

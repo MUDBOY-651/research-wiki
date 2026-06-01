@@ -76,8 +76,8 @@ tags: [representation-learning, information-theory]
 When told to ingest a source:
 
 1. Read the full source in `raw/`
-2. Discuss key takeaways with Erber if in interactive mode
-3. Create or update a paper summary page in `wiki/papers/`
+2. Discuss key takeaways with Roshin if in interactive mode
+3. Create or update a paper summary page in `wiki/papers/` or `wiki/concepts`
 4. For each key concept mentioned:
     - If concept page exists → update it with new information, note the source
     - If concept page doesn't exist → create it from template
